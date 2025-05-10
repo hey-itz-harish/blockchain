@@ -1,1 +1,1 @@
-conflict check 
+conflict checking
